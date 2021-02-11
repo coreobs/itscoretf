@@ -11,4 +11,8 @@
 - [Twitter](https://twitter.com/itscoretf)
 - [Twitch](https://twitch.tv/itscoretf)
 - [YouTube](https://www.youtube.com/channel/UCHQ2VYLWRxHhUmOmevfdIzA)
+
+### Contact me:
+
 - Email: itscoretf@pm.me
+- or via Twitter DMs.
