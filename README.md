@@ -8,7 +8,7 @@ I run a TF2 competitive league and run/help run a bunch of other TF2 services. I
 - [ozfortress](https://ozfortress.com/) League Administrator
 - [TFLIVETV](https://tflive.tv/) Administrator & Producer/Observer
 - [KritzKast](https://twitch.tv/KritzKast) Producer/Observer
-- [match.tf](https://match.tf/) Administrator
+- [match.tf](https://match.tf/) Staff
 
 ## Find me on:
 
