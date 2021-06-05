@@ -4,7 +4,7 @@ I run a TF2 competitive league and run/help run a bunch of other TF2 services. I
 
 ## Things I do:
 
-- [Respawn League](https://rsl.tf/) Founder / Head Administrator
+- [Respawn League](https://rsl.tf/) League Administrator / Founder
 - [ozfortress](https://ozfortress.com/) League Administrator
 - [TFLIVETV](https://tflive.tv/) Administrator & Producer/Observer
 - [KritzKast](https://twitch.tv/KritzKast) Producer/Observer
