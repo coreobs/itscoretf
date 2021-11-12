@@ -1,11 +1,9 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I used to run a TF2 competitive league and run/help run a bunch of other TF2 services, these days I am just a league administrator for ozfortress. I also sometimes have to do the keyboarding to make the things.
-
 ## Things I do:
 
 - [Respawn League](https://rsl.tf/) Founder
-- [ozfortress](https://ozfortress.com/) League Administrator
+- [ozfortress](https://ozfortress.com/) Head Administrator
 - [KritzKast](https://twitch.tv/KritzKast) Producer/Observer
 - [match.tf](https://match.tf/) Staff
 
