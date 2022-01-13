@@ -2,8 +2,8 @@
 
 ## Things I do:
 
-- [Respawn League](https://rsl.tf/) Founder
 - [ozfortress](https://ozfortress.com/) Head Administrator
+- [Respawn League](https://rsl.tf/) Founder
 - [KritzKast](https://twitch.tv/KritzKast) Producer/Observer
 - [match.tf](https://match.tf/) Staff
 
